@@ -1,0 +1,2 @@
+Comentarios: las funciones contiene_sumidero y primos_menores había que implementarlas mediante listas por comprensión. 
+Nota: 8
